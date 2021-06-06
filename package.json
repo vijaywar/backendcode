@@ -4,11 +4,23 @@
   "description": "Back end API for search support",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "author": "",
+  "author": "vijay",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaywar/backendcode.git"
+  },
+  "keywords": [
+    "vijay"
+  ],
+  "bugs": {
+    "url": "https://github.com/vijaywar/backendcode/issues"
+  },
+  "homepage": "https://github.com/vijaywar/backendcode#readme"
 }
